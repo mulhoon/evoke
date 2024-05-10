@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=/feed/">
+		<meta http-equiv="refresh" content="0;url=https://evoke.pages.dev/feed/">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "/feed/";
+			window.location = "https://evoke.pages.dev/feed/";
 		</script>
 
-		<p>You are being redirected to <a href="/feed/">/feed/</a></p>
+		<p>You are being redirected to <a href="https://evoke.pages.dev/feed/">https://evoke.pages.dev/feed/</a></p>
 	</body>
 </html>

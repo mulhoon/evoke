@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://evoke.pages.dev/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
+		<loc>https://evoke.pages.dev/page-sitemap.xml</loc>
 		<lastmod>2024-02-07T20:20:40+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/work-sitemap.xml</loc>
+		<loc>https://evoke.pages.dev/work-sitemap.xml</loc>
 		<lastmod>2024-04-16T06:27:57+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
