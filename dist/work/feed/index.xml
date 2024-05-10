@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Work Archive &#8211; EVOKE</title>
-	<atom:link href="http://localhost/work/feed/?simply_static_page=221" rel="self" type="application/rss+xml" />
+	<atom:link href="/work/feed/" rel="self" type="application/rss+xml" />
 	<link>/work/</link>
 	<description>A multi award-winning brand design studio with a big agency background and a small agency spirit.</description>
 	<lastBuildDate>Tue, 16 Apr 2024 06:27:57 +0000</lastBuildDate>

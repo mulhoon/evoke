@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="0.92">
-<channel>
-	<title>EVOKE</title>
-	<link>/</link>
-	<description>A multi award-winning brand design studio with a big agency background and a small agency spirit.</description>
-	<lastBuildDate>Tue, 16 Apr 2024 06:27:57 +0000</lastBuildDate>
-	<docs>http://backend.userland.com/rss092</docs>
-	<language>en-GB</language>
-	
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/feed/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/feed/";
+		</script>
 
-</channel>
-</rss>
+		<p>You are being redirected to <a href="/feed/">/feed/</a></p>
+	</body>
+</html>
