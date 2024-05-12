@@ -9,8 +9,8 @@
 
 <channel>
 	<title>EVOKE</title>
-	<atom:link href="https://evoke.pages.dev/feed/" rel="self" type="application/rss+xml" />
-	<link>https://evoke.pages.dev/</link>
+	<atom:link href="https://evoke-nic.pages.dev/feed/" rel="self" type="application/rss+xml" />
+	<link>https://evoke-nic.pages.dev/</link>
 	<description>A multi award-winning brand design studio with a big agency background and a small agency spirit.</description>
 	<lastBuildDate>Tue, 16 Apr 2024 06:27:57 +0000</lastBuildDate>
 	<language>en-GB</language>

@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://evoke.pages.dev/feed/">
+		<meta http-equiv="refresh" content="0;url=https://evoke-nic.pages.dev/feed/">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "https://evoke.pages.dev/feed/";
+			window.location = "https://evoke-nic.pages.dev/feed/";
 		</script>
 
-		<p>You are being redirected to <a href="https://evoke.pages.dev/feed/">https://evoke.pages.dev/feed/</a></p>
+		<p>You are being redirected to <a href="https://evoke-nic.pages.dev/feed/">https://evoke-nic.pages.dev/feed/</a></p>
 	</body>
 </html>
