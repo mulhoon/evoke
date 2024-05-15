@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://evoke-nic.pages.dev/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://evoke.nicmulvaney.com/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://evoke-nic.pages.dev/page-sitemap.xml</loc>
+		<loc>https://evoke.nicmulvaney.com/page-sitemap.xml</loc>
 		<lastmod>2024-02-07T20:20:40+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://evoke-nic.pages.dev/work-sitemap.xml</loc>
+		<loc>https://evoke.nicmulvaney.com/work-sitemap.xml</loc>
 		<lastmod>2024-05-13T19:29:52+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
